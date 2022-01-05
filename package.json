@@ -9,6 +9,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@stitches/react": "1.2.6",
     "preact": "10.5.15"
   },
   "devDependencies": {
